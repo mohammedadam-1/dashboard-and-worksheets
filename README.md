@@ -20,7 +20,7 @@ Welcome to my Tableau Projects Portfolio! This repository contains a collection 
 - **Insights**: Identified significant fare trends while excluding null values.
 
 #### **3. World Population Dataset Visualization**
-![World Population](images/world-population-visualization.png)  
+![World Population](images/05_World Population dataset.png)  
 - **Visualization Type**: Bubble Chart  
 - **Description**: Visualized population comparisons through bubble sizes to highlight regional growth and density.  
 
