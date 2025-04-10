@@ -25,7 +25,7 @@ Welcome to my Tableau Projects Portfolio! This repository contains a collection 
 - **Description**: Visualized population comparisons through bubble sizes to highlight regional growth and density.  
 
 #### **4. Sales Trend Analysis by Category**
-![Sales Trend Analysis](images/sales-trend-analysis.png)  
+![Sales Trend Analysis](images/06_Area_chart.png)  
 - **Visualization Type**: Area Chart  
 - **Description**: Illustrated trends across categories (Furniture, Office Supplies, Technology) from 2014 to 2017.  
 - **Insights**: Demonstrated growth patterns and peak sales performances.
