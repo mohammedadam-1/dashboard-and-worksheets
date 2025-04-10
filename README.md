@@ -31,7 +31,7 @@ Welcome to my Tableau Projects Portfolio! This repository contains a collection 
 - **Insights**: Demonstrated growth patterns and peak sales performances.
 
 #### **5. Interactive Data Insights Dashboard**
-![Interactive Dashboard](images/interactive-dashboard.png)  
+![Interactive Dashboard](images/Test_Dashboard (1).png)  
 - **Visualization Type**: Dashboard  
 - **Description**: Combined multiple analyses into a cohesive dashboard featuring population, sales, and Titanic datasets.  
 - **Link to Interactive Dashboard**: [View on Tableau Public](https://public.tableau.com/app/profile/mohammed.adam8458/vizzes).
