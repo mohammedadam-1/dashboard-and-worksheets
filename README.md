@@ -14,7 +14,7 @@ Welcome to my Tableau Projects Portfolio! This repository contains a collection 
 - **Key Features**: Filters for age and sex revealed distinct demographic patterns.
 
 #### **2. Titanic Fare-to-Age Scatter Plot**
-![Titanic Fare vs Age](images/titanic-fare-age-scatter.png)  
+![Titanic Fare vs Age](images/03_dynamic_scatterplot.png)  
 - **Visualization Type**: Scatter Plot  
 - **Description**: Explored the relationship between fares paid and ages of passengers, categorized by gender.  
 - **Insights**: Identified significant fare trends while excluding null values.
