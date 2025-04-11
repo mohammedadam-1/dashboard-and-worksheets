@@ -8,7 +8,7 @@ Welcome to my Tableau Projects Portfolio! This repository contains a collection 
 ### **Projects and Visualizations**
 
 #### **1. Titanic Passenger Analysis**
-![Titanic Passenger Analysis](images/titanic-passenger-analysis.png)  
+![Titanic Passenger Analysis](images/01_barplot.png)  
 - **Visualization Type**: Bar Chart  
 - **Description**: Analyzed the average age of Titanic passengers grouped by sex and embarkation point.  
 - **Key Features**: Filters for age and sex revealed distinct demographic patterns.
