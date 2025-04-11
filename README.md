@@ -44,4 +44,4 @@ For interactive versions of these visualizations, visit my Tableau Public profil
 ---
 
 ### **About Me**
-I am an aspiring data analyst with a passion for discovering insights through data analysis and visualization. Proficient in Python, Tableau, and Microsoft Excel, I continue to develop my technical skills to uncover meaningful patterns and trends.![Test_Dashboard](https://github.com/user-attachments/assets/e7dfed17-c6be-48ec-aab7-140040840f43)
+I am an aspiring data analyst with a passion for discovering insights through data analysis and visualization. Proficient in Python, Tableau, and Microsoft Excel, I continue to develop my technical skills to uncover meaningful patterns and trends.![Test_Dashboard]()
